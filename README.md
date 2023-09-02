@@ -1,4 +1,4 @@
-# Step3(2023-09-01) #
+#### Step3(2023-09-01) https://github.com/next-step/android-github/pull/106
     * GitHub(UI)
         * [x] 앱을 실행하면 리스트 형태의 GitHub Repository UI가 보여야 한다.
         * [x] MVVM 패턴으로 구현한다.
@@ -12,7 +12,7 @@
         * [x] xml 코드 정렬
         * [x] tool:text -> android:text
 
-# Step2(2023-08-30) #
+#### Step2(2023-08-30) https://github.com/next-step/android-github/pull/102
     * GitHub(HTTP)
         * [x] GET, https://api.github.com/repositories
         * [x] full_name, description 필드만
@@ -25,7 +25,7 @@
         * [x] 테스트 코드 함수명 수정
         * [x] GithubService 주석 수정
 
-# Step1(2023-08-29) #
+#### Step1(2023-08-29) https://github.com/next-step/android-github/pull/100
     * GitHub(모듈 분리)
         * [x] 순수 코틀린 모듈인 domain 모듈을 만든다.
         * [x] 순수 코틀린 모듈인 data 모듈을 만든다.
